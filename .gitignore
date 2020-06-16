@@ -4,3 +4,5 @@
 .metals
 metals.sbt
 **/target
+.idea
+.vscode
